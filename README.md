@@ -14,4 +14,7 @@ Descripción de una línea del proyecto.
 
 - Java 17
 - Maven
+- mongo db
+- git
+- spring boot
 - GitHub Actions
